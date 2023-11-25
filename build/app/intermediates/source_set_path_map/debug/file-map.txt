@@ -1,0 +1,12 @@
+com.example.world_time.app-core-1.6.0-0 C:\Users\user\.gradle\caches\transforms-3\99a4d03419778a8883f10e81f1095515\transformed\core-1.6.0\res
+com.example.world_time.app-jetified-window-java-1.0.0-beta04-1 C:\Users\user\.gradle\caches\transforms-3\9e9cc867834463b5732e7c41a22aca9f\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.world_time.app-jetified-window-1.0.0-beta04-2 C:\Users\user\.gradle\caches\transforms-3\d3cd16683f784d1c00afbf94c453a7e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.world_time.app-jetified-annotation-experimental-1.1.0-3 C:\Users\user\.gradle\caches\transforms-3\e453f7bf1de35bebe09f8d7dbd9ad75e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.world_time.app-debug-4 D:\file kuliah\Semester 5\Praktikum Pemrograman Perangkat Bergerak\TA\world-time-flutter-app\android\app\src\debug\res
+com.example.world_time.app-main-5 D:\file kuliah\Semester 5\Praktikum Pemrograman Perangkat Bergerak\TA\world-time-flutter-app\android\app\src\main\res
+com.example.world_time.app-pngs-6 D:\file kuliah\Semester 5\Praktikum Pemrograman Perangkat Bergerak\TA\world-time-flutter-app\build\app\generated\res\pngs\debug
+com.example.world_time.app-resValues-7 D:\file kuliah\Semester 5\Praktikum Pemrograman Perangkat Bergerak\TA\world-time-flutter-app\build\app\generated\res\resValues\debug
+com.example.world_time.app-rs-8 D:\file kuliah\Semester 5\Praktikum Pemrograman Perangkat Bergerak\TA\world-time-flutter-app\build\app\generated\res\rs\debug
+com.example.world_time.app-mergeDebugResources-9 D:\file kuliah\Semester 5\Praktikum Pemrograman Perangkat Bergerak\TA\world-time-flutter-app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.world_time.app-mergeDebugResources-10 D:\file kuliah\Semester 5\Praktikum Pemrograman Perangkat Bergerak\TA\world-time-flutter-app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.world_time.app-merged_res-11 D:\file kuliah\Semester 5\Praktikum Pemrograman Perangkat Bergerak\TA\world-time-flutter-app\build\app\intermediates\merged_res\debug
